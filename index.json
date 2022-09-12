@@ -1,0 +1,30 @@
+{
+    "student": [{
+            "name": "jegini lokesh",
+            "age": 25,
+            "skills": ["html", "cs", "js"],
+            "address": {
+                "city": "pathagunta",
+                "state": "andhra pradesh"
+            }
+        },
+        {
+            "name": "murali",
+            "age": 25,
+            "skills": ["tools"],
+            "address": {
+                "city": "pathagunta",
+                "state": "andhra pradesh"
+            }
+        },
+        {
+            "name": "eswar reddy",
+            "age": 25,
+            "skills": ["business"],
+            "address": {
+                "city": "pathagunta",
+                "state": "andhra pradesh"
+            }
+        }
+    ]
+}
